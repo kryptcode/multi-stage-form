@@ -142,7 +142,7 @@ const StepTwoForm = () => {
         <div className='py-2 px-3 bg-[#072a5f] text-white font-medium cursor-pointer rounded-lg'>
           Next Step
         </div>
-      </div>
+    </div>
     </>
   )
 }
